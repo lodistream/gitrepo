@@ -9,9 +9,9 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "4KFilmIzleme",
+    "internalName": "FiLm444",
     "description": "Film Dizi İçerikleri",
-    "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/4KFilmIzleme.cs3",
-    "name": "4K Film İzleme"
+    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/Aflamk.cs3",
+    "name": "4K Film"
   }
   ]
