@@ -1,0 +1,17 @@
+[
+  {
+    "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lodistream/gitrepo",
+    "fileSize": 13693,
+    "status": 1,
+    "language": "tr",
+    "authors": ["lodistream"],
+    "tvTypes": ["Movie", "Series", "TV"],
+    "version": 1,
+    "internalName": "4KFilmIzleme",
+    "description": "Film Dizi İçerikleri",
+    "url": "https://github.com/lodistream/lodistream.github.io/raw/refs/heads/main/.github/datas/4KFilmIzleme.cs3",
+    "name": "4K Film İzleme"
+  }
+  ]
