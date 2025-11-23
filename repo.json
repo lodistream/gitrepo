@@ -1,5 +1,5 @@
 {
-  "name": "🇹🇷LODISTREAM",
+  "name": "✖️DENEME",
   "description": "LODISTREAM — yüksek kaliteli film ve dizi eklentileri koleksiyonu. Türkçe içeriklere öncelik verir, hızlı akış bağlantıları sunar.",
   "manifestVersion": 1,
   "version": "1.0.0",
@@ -11,7 +11,7 @@
     }
   ],
   "pluginLists": [
-    "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
+    "https://raw.githubusercontent.com/lodistream/gitrepo/refs/heads/main/builds/plugins.json"
   ],
   "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/icon.png",
   "homepage": "https://lodistream.github.io",
