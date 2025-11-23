@@ -1,0 +1,25 @@
+{
+  "name": "🇹🇷LODISTREAM",
+  "description": "LODISTREAM — yüksek kaliteli film ve dizi eklentileri koleksiyonu. Türkçe içeriklere öncelik verir, hızlı akış bağlantıları sunar.",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "LodiStream Team",
+      "github": "lodistream",
+      "discord": "lodistream"
+    }
+  ],
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/.github/builds/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/main/icon.png",
+  "homepage": "https://lodistream.github.io",
+  "language": "tr",
+  "categories": ["Movies", "TV Shows", "Streaming"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/lodistream/lodistream.github.io/issues",
+    "contact": "lodistream@gmail.com"
+  }
+}
