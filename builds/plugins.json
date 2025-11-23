@@ -23,9 +23,9 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "FILMHANEM",
+    "internalName": "FILMHANEM2",
     "description": "Film Dizi İçerikleri",
-    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/Filmhanem.cs3",
-    "name": "FILMHANEM"
+    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/FilmHane.cs3",
+    "name": "FILMHANEM2"
   }
   ]
