@@ -13,5 +13,19 @@
     "description": "Film Dizi İçerikleri",
     "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/Aflamk.cs3",
     "name": "4K Film"
+  },{
+    "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lodistream/gitrepo",
+    "fileSize": 13693,
+    "status": 1,
+    "language": "tr",
+    "authors": ["lodistream"],
+    "tvTypes": ["Movie", "Series", "TV"],
+    "version": 1,
+    "internalName": "FILMHANEM",
+    "description": "Film Dizi İçerikleri",
+    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/Filmhanem.cs3",
+    "name": "FILMHANEM"
   }
   ]
