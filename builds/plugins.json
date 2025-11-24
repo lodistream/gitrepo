@@ -23,9 +23,9 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "FIEK",
+    "internalName": "FIEK4",
     "description": "Film Dizi İçerikleri",
     "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/FilmMakinesi.cs3",
-    "name": "FILK"
+    "name": "FILK4"
   }
   ]
