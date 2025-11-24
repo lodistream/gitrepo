@@ -11,7 +11,7 @@
     "version": 1,
     "internalName": "FiLm444",
     "description": "Film Dizi İçerikleri",
-    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/Aflamk.cs3",
+    "url": " ",
     "name": "4K Film"
   },{
     "iconUrl": "https://raw.githubusercontent.com/lodistream/lodistream.github.io/refs/heads/main/logo.png",
@@ -23,9 +23,9 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "FILM6EK",
+    "internalName": "FIEK",
     "description": "Film Dizi İçerikleri",
-    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/FilmEkseni.cs3",
-    "name": "FILM6EK"
+    "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/Aflamk.cs3",
+    "name": "FILK"
   }
   ]
