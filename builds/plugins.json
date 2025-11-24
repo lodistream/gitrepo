@@ -23,9 +23,9 @@
     "authors": ["lodistream"],
     "tvTypes": ["Movie", "Series", "TV"],
     "version": 1,
-    "internalName": "FILMEK",
+    "internalName": "FILM6EK",
     "description": "Film Dizi İçerikleri",
     "url": "https://github.com/lodistream/gitrepo/raw/refs/heads/main/data/FilmEkseni.cs3",
-    "name": "FILMEK"
+    "name": "FILM6EK"
   }
   ]
